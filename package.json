@@ -1,0 +1,19 @@
+{
+  "name": "rijksoverheid-fonts",
+  "version": "1.0.0",
+  "repository": "git@github.com:MinBZK/rijksoverheid-fonts.git",
+  "author": "Mehmet Onur Sagir <onuur.s@gmail.com>",
+  "license": "MIT",
+  "main": "index.css",
+  "exports": {
+    ".": {
+      "default": "./index.css"
+    },
+    "./sans": {
+      "default": "./sans.css"
+    },
+    "./serif": {
+      "default": "./serif.css"
+    }
+  }
+}
