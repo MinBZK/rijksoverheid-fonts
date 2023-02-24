@@ -7,7 +7,7 @@
 ### Installation
 
 ```
-yarn install https://github.com/MinBZK/rijksoverheid-fonts
+yarn add https://github.com/MinBZK/rijksoverheid-fonts
 npm install https://github.com/MinBZK/rijksoverheid-fonts
 ```
 
